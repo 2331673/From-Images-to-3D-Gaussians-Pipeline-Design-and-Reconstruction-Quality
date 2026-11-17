@@ -1,0 +1,21 @@
+{
+  "run_id": "03_ea44d20e395a4af18d577551f8ad66ac",
+  "number": 3,
+  "uid": "ea44d20e395a4af18d577551f8ad66ac",
+  "kind": "primary",
+  "init_type": "random",
+  "sift_points": 6,
+  "init_num_pts": 10000,
+  "status": "complete",
+  "started_at": "2026-11-04T07:33:34.653955+00:00",
+  "metrics": {
+    "psnr": 23.264089584350586,
+    "ssim": 0.9560459852218628,
+    "lpips": 0.0932081937789917,
+    "ellipse_time": 0.0013753771781921387,
+    "num_GS": 12720
+  },
+  "fg_psnr_8bit": 12.827692186671953,
+  "elapsed_seconds": 41.32848770916462,
+  "finished_at": "2026-11-04T07:34:15.982445+00:00"
+}

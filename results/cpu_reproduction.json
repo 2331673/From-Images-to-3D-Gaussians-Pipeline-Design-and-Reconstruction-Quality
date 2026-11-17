@@ -1,0 +1,122 @@
+[
+  {
+    "uid": "3f7cd14a0b7e4b739b0b21acc71252f2",
+    "saved_points": 166,
+    "rerun_points": 166,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 2.3314683517128287e-15,
+    "max_mean_reprojection_error_difference": 0.0
+  },
+  {
+    "uid": "62ec6c8203b24d6ca3457f4349ec7759",
+    "saved_points": 46,
+    "rerun_points": 46,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 2.0122792321330962e-15,
+    "max_mean_reprojection_error_difference": 1.0000004296850662e-12
+  },
+  {
+    "uid": "ea44d20e395a4af18d577551f8ad66ac",
+    "saved_points": 6,
+    "rerun_points": 6,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 1.2906342661267445e-15,
+    "max_mean_reprojection_error_difference": 0.0
+  },
+  {
+    "uid": "3966f9b9a8be46b283254a737445b0d0",
+    "saved_points": 188,
+    "rerun_points": 188,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 2.192690473634684e-15,
+    "max_mean_reprojection_error_difference": 0.0
+  },
+  {
+    "uid": "1a5b93387fb24eb49db34b560794055c",
+    "saved_points": 18,
+    "rerun_points": 18,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 2.5118795932144167e-15,
+    "max_mean_reprojection_error_difference": 0.0
+  },
+  {
+    "uid": "0e1a6f302e7c4d9c861edbc78fd4fa4e",
+    "saved_points": 23,
+    "rerun_points": 23,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 4.6629367034256575e-15,
+    "max_mean_reprojection_error_difference": 0.0
+  },
+  {
+    "uid": "a89b352697834521b375e2b310694b2c",
+    "saved_points": 103,
+    "rerun_points": 103,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 1.887379141862766e-15,
+    "max_mean_reprojection_error_difference": 1.0000000502143058e-13
+  },
+  {
+    "uid": "15b7973e35e3434284909722e3cecc60",
+    "saved_points": 49,
+    "rerun_points": 49,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 1.5543122344752192e-15,
+    "max_mean_reprojection_error_difference": 0.0
+  },
+  {
+    "uid": "fdecd4570f78412a821d9c41d98b2cfa",
+    "saved_points": 329,
+    "rerun_points": 329,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 2.220446049250313e-15,
+    "max_mean_reprojection_error_difference": 9.999997791637627e-14
+  },
+  {
+    "uid": "20820fb8cc6c465d918a7c84e19142bb",
+    "saved_points": 71,
+    "rerun_points": 71,
+    "identical_binary_files": [
+      "cameras.bin"
+    ],
+    "stats_equal": false,
+    "identical_point_tracks": true,
+    "max_point_coordinate_abs_difference": 2.3592239273284576e-15,
+    "max_mean_reprojection_error_difference": 0.0
+  }
+]

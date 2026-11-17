@@ -1,0 +1,58 @@
+{
+  "created_at": "2026-11-04T07:33:33.867787+00:00",
+  "checkpoint": "experiments/gsplat_batch_20261104a/02_62ec6c8203b24d6ca3457f4349ec7759/model/ckpts/ckpt_5999_rank0.pt",
+  "checkpoint_sha256": "f13a58ecc49a2bf1686a2de87d135cdb455ebb487c2c1429d0b658116ad7535d",
+  "checkpoint_step_zero_based": 5999,
+  "config": "experiments/gsplat_batch_20261104a/02_62ec6c8203b24d6ca3457f4349ec7759/model/cfg.yml",
+  "config_sha256": "8539bf3f41d792000b2490b808e1805a1933015c9d2cfb34b1bbb3a2259a2a12",
+  "script_sha256": "7e601233f21696b56d92afaba8c7e58fc76dad9f6391f9fb5008b8bb089214a7",
+  "normalize_world_space": false,
+  "gsplat_version": "1.5.3",
+  "torch_version": "2.3.0a0+6ddf5cf85e.nv24.04",
+  "cuda_runtime": "12.4",
+  "gpu_name": "NVIDIA H100 80GB HBM3",
+  "num_gaussians": 39439,
+  "frames": 96,
+  "gif_frames": 96,
+  "width": 256,
+  "height": 256,
+  "radius": 2.4,
+  "elevation_degrees": 20.0,
+  "center": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "focal_length_pixels": 320.0,
+  "background_rgb": [
+    0,
+    0,
+    0
+  ],
+  "requested_fps": 24.0,
+  "gif_frame_duration_ms": 40,
+  "gif_effective_fps": 25.0,
+  "render_options": {
+    "packed": false,
+    "absgrad": false,
+    "sparse_grad": false,
+    "rasterize_mode": "classic",
+    "camera_model": "pinhole",
+    "with_ut": false,
+    "with_eval3d": false,
+    "near_plane": 0.01,
+    "far_plane": 10000000000.0,
+    "sh_degree": 3,
+    "render_mode": "RGB"
+  },
+  "render_seconds": 0.740896038711071,
+  "elapsed_seconds": 2.6479834504425526,
+  "artifacts": {
+    "gif": {
+      "path": "experiments/gsplat_batch_20261104a/02_62ec6c8203b24d6ca3457f4349ec7759/orbit.gif",
+      "sha256": "ebf8e71173c44854e6b12999cb4ad10561a6bd57cddddfb020a26cbc3ff7b509"
+    }
+  },
+  "camera_path": "experiments/gsplat_batch_20261104a/02_62ec6c8203b24d6ca3457f4349ec7759/orbit_cameras.json",
+  "camera_path_sha256": "4782465daff86e8b1f2fcf2fc585c9e66b4d5bcc3c678600bd2aa05fa8ddacad"
+}

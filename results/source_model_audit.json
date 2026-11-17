@@ -1,0 +1,122 @@
+[
+  {
+    "run_id": "01_3f7cd14a0b7e4b739b0b21acc71252f2",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "01_3f7cd14a0b7e4b739b0b21acc71252f2",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "ablation_random_01",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "ablation_random_01",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "02_62ec6c8203b24d6ca3457f4349ec7759",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "02_62ec6c8203b24d6ca3457f4349ec7759",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "03_ea44d20e395a4af18d577551f8ad66ac",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "03_ea44d20e395a4af18d577551f8ad66ac",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "04_3966f9b9a8be46b283254a737445b0d0",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "04_3966f9b9a8be46b283254a737445b0d0",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "05_1a5b93387fb24eb49db34b560794055c",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "05_1a5b93387fb24eb49db34b560794055c",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "06_0e1a6f302e7c4d9c861edbc78fd4fa4e",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "06_0e1a6f302e7c4d9c861edbc78fd4fa4e",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "07_a89b352697834521b375e2b310694b2c",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "07_a89b352697834521b375e2b310694b2c",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "08_15b7973e35e3434284909722e3cecc60",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "08_15b7973e35e3434284909722e3cecc60",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "09_fdecd4570f78412a821d9c41d98b2cfa",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "09_fdecd4570f78412a821d9c41d98b2cfa",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "ablation_random_09",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "ablation_random_09",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "10_20820fb8cc6c465d918a7c84e19142bb",
+    "artifact": "model/ckpts/ckpt_5999_rank0.pt",
+    "sha256_matches": true
+  },
+  {
+    "run_id": "10_20820fb8cc6c465d918a7c84e19142bb",
+    "artifact": "model/ply/point_cloud_5999.ply",
+    "sha256_matches": true
+  }
+]

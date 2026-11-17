@@ -1,0 +1,131 @@
+{
+  "scope": "Saved artifact audit; does not rerun GPU training",
+  "objects": [
+    {
+      "number": 1,
+      "uid": "3f7cd14a0b7e4b739b0b21acc71252f2",
+      "pairs": 325,
+      "points": 166,
+      "retained_track_pairs": 493,
+      "gif_frames": 96,
+      "full_psnr_8bit": 37.8729661357221,
+      "fg_psnr_8bit": 33.08548903164382,
+      "gif_sha256": "dd8e3f755a7e379fb8b7bbc7af9af34f592f1d664302466fe79aa626c8d0b697"
+    },
+    {
+      "number": 2,
+      "uid": "62ec6c8203b24d6ca3457f4349ec7759",
+      "pairs": 325,
+      "points": 46,
+      "retained_track_pairs": 54,
+      "gif_frames": 96,
+      "full_psnr_8bit": 37.995429707886636,
+      "fg_psnr_8bit": 28.82632144605289,
+      "gif_sha256": "ebf8e71173c44854e6b12999cb4ad10561a6bd57cddddfb020a26cbc3ff7b509"
+    },
+    {
+      "number": 3,
+      "uid": "ea44d20e395a4af18d577551f8ad66ac",
+      "pairs": 325,
+      "points": 6,
+      "retained_track_pairs": 6,
+      "gif_frames": 96,
+      "full_psnr_8bit": 23.22153283657088,
+      "fg_psnr_8bit": 12.827692186671952,
+      "gif_sha256": "492d8ea446e93a215589f7bfc0faf736bb30a06dde8c4579926a02cd88b2c083"
+    },
+    {
+      "number": 4,
+      "uid": "3966f9b9a8be46b283254a737445b0d0",
+      "pairs": 325,
+      "points": 188,
+      "retained_track_pairs": 340,
+      "gif_frames": 96,
+      "full_psnr_8bit": 37.01601542251369,
+      "fg_psnr_8bit": 29.32209097055322,
+      "gif_sha256": "a82504aa6c98c2d4af80f0a53e5641809bb3c08ad327eac7358961eae0397e95"
+    },
+    {
+      "number": 5,
+      "uid": "1a5b93387fb24eb49db34b560794055c",
+      "pairs": 325,
+      "points": 18,
+      "retained_track_pairs": 22,
+      "gif_frames": 96,
+      "full_psnr_8bit": 24.462165490870692,
+      "fg_psnr_8bit": 12.668066078823248,
+      "gif_sha256": "9a7d25e12daa3b25dce108d6e6381285d955f47fa957f231678d690245fdb176"
+    },
+    {
+      "number": 6,
+      "uid": "0e1a6f302e7c4d9c861edbc78fd4fa4e",
+      "pairs": 325,
+      "points": 23,
+      "retained_track_pairs": 34,
+      "gif_frames": 96,
+      "full_psnr_8bit": 39.19044220876102,
+      "fg_psnr_8bit": 32.59083620156764,
+      "gif_sha256": "8a97ac457db3336dc47c6e8bf44369daeb68ae928503038140b6ae5d55118831"
+    },
+    {
+      "number": 7,
+      "uid": "a89b352697834521b375e2b310694b2c",
+      "pairs": 325,
+      "points": 103,
+      "retained_track_pairs": 331,
+      "gif_frames": 96,
+      "full_psnr_8bit": 45.589587990344384,
+      "fg_psnr_8bit": 37.501127719247975,
+      "gif_sha256": "6e8f2eeb756387a6c65484090dac81f9a7af92231e3a6f0abe80639c39d99ecd"
+    },
+    {
+      "number": 8,
+      "uid": "15b7973e35e3434284909722e3cecc60",
+      "pairs": 325,
+      "points": 49,
+      "retained_track_pairs": 53,
+      "gif_frames": 96,
+      "full_psnr_8bit": 36.07432337969664,
+      "fg_psnr_8bit": 27.388543771000926,
+      "gif_sha256": "cc15028744db13adb5a46e3ac41e8d442e527fe32ec5e1d9b418861083cd7619"
+    },
+    {
+      "number": 9,
+      "uid": "fdecd4570f78412a821d9c41d98b2cfa",
+      "pairs": 325,
+      "points": 329,
+      "retained_track_pairs": 882,
+      "gif_frames": 96,
+      "full_psnr_8bit": 31.071328173421602,
+      "fg_psnr_8bit": 24.112011560578342,
+      "gif_sha256": "b202757366517a5006ee47fe2c8e3251aa7dc58601f2cce096efd3f94f894601"
+    },
+    {
+      "number": 10,
+      "uid": "20820fb8cc6c465d918a7c84e19142bb",
+      "pairs": 325,
+      "points": 71,
+      "retained_track_pairs": 171,
+      "gif_frames": 96,
+      "full_psnr_8bit": 41.313862523350984,
+      "fg_psnr_8bit": 31.265152693154164,
+      "gif_sha256": "34a860497cb89f2e65d473afb9dbb4c0caca49f481e32b7e653bce6ecde18e68"
+    }
+  ],
+  "primary_runs": 10,
+  "ablation_runs": 2,
+  "full_psnr_8bit_macro": 35.380765386913865,
+  "averages": {
+    "psnr": 35.39770984649658,
+    "ssim": 0.9822891414165497,
+    "lpips": 0.025913808960467577,
+    "fg_psnr_8bit": 26.95873316592942
+  },
+  "psnr_declines_2000_to_6000": [
+    1,
+    2,
+    4,
+    6,
+    9
+  ]
+}

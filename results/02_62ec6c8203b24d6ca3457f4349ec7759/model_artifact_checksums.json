@@ -1,0 +1,10 @@
+{
+  "model/ckpts/ckpt_5999_rank0.pt": {
+    "bytes": 9310104,
+    "sha256": "f13a58ecc49a2bf1686a2de87d135cdb455ebb487c2c1429d0b658116ad7535d"
+  },
+  "model/ply/point_cloud_5999.ply": {
+    "bytes": 9309080,
+    "sha256": "4235ac34e79f830803f7e7d39f83db31df538610d802c81764700f7bc6020a70"
+  }
+}

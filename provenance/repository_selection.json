@@ -1,0 +1,159 @@
+{
+  "checked_at_utc": "2026-11-04T06:37:49.963492+00:00",
+  "purpose": "Select an open-source reproducible per-object 3DGS pipeline for 10 filtered Objaverse assets",
+  "recommended_repository": "nerfstudio-project/gsplat",
+  "recommended_ref": "v1.5.3",
+  "recommended_commit": "937e29912570c372bed6747a5c9bf85fed877bae",
+  "runtime_validation_status": "passed: ACP H100; 2000 steps; 4 held-out views; checkpoint, PLY and 96-frame RGB GIF verified",
+  "reproduction_scope": "Installation, one known-pose object, training, held-out evaluation and rendering. Not a reproduction of paper benchmark metrics or end-to-end SfM.",
+  "candidates": [
+    {
+      "repo": "nerfstudio-project/gsplat",
+      "license": "Apache-2.0",
+      "release": "v1.5.3",
+      "release_date": "2025-07-04",
+      "main_commit": "512d366b67073d77ca099ede742683c165dfc23b",
+      "main_commit_date": "2026-09-19",
+      "decision": "first_choice",
+      "reason": "官方训练、评估、轨迹视频、PLY和benchmark脚本齐全，适合Python批处理和消融。v1.6.0是尚未正式发布的main进展。",
+      "url": "https://github.com/nerfstudio-project/gsplat"
+    },
+    {
+      "repo": "nv-tlabs/3dgrut",
+      "license": "Apache-2.0",
+      "release": "v1.1.0",
+      "release_date": "2026-06-10",
+      "main_commit": "bb203b1fa990e044412396483d4dbc1f3164ae02",
+      "main_commit_date": "2026-10-28",
+      "decision": "academic_extension",
+      "reason": "3DGUT/3DGRT官方实现，有synthetic/COLMAP配置与论文benchmark；复杂相机优势并非当前针孔物体任务所必需。",
+      "url": "https://github.com/nv-tlabs/3dgrut"
+    },
+    {
+      "repo": "ArthurBrussee/brush",
+      "license": "Apache-2.0",
+      "release": "v0.3.0",
+      "release_date": "2025-09-14",
+      "main_commit": "1388f74c6fe0236f68ee4915564bf00e9d2e3747",
+      "main_commit_date": "2026-10-03",
+      "decision": "easy_install_alternative",
+      "reason": "跨平台无GUI训练与评估，Rust Cargo.lock；独立轨迹视频/GIF仍需补适配。",
+      "url": "https://github.com/ArthurBrussee/brush"
+    },
+    {
+      "repo": "MrNeRF/LichtFeld-Studio",
+      "license": "GPL-3.0 with repository exception",
+      "release": "v0.5.4.2",
+      "release_date": "2026-11-01",
+      "main_commit": "af961fa3a7bdd40580069aea4dd5026ca71aeff7",
+      "main_commit_date": "2026-11-03",
+      "decision": "interactive_workstation_alternative",
+      "reason": "维护活跃且功能完整，Linux源码构建要求CUDA12.8+/GCC14+/CMake3.30+/vcpkg，集成成本高。",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio"
+    },
+    {
+      "repo": "nerfstudio-project/nerfstudio",
+      "license": "Apache-2.0",
+      "release": "v1.1.5",
+      "release_date": "2024-11-11",
+      "main_commit": "50e0e3c70c775e89333256213363badbf074f29d",
+      "main_commit_date": "2025-07-29",
+      "decision": "integrated_workflow_alternative",
+      "reason": "Splatfacto处理、训练、评估、路径渲染CLI完整，但依赖更多；正式版本固定gsplat1.4.0。",
+      "url": "https://github.com/nerfstudio-project/nerfstudio"
+    },
+    {
+      "repo": "graphdeco-inria/gaussian-splatting",
+      "license": "Custom non-commercial research/evaluation license",
+      "release": null,
+      "main_commit": "54c035f7834b564019656c3e3fcc3646292f727d",
+      "main_commit_date": "2024-10-30",
+      "decision": "reference_baseline",
+      "reason": "原作者基线及评价材料完整，但默认环境较旧，许可证为自定义研究用途许可。",
+      "url": "https://github.com/graphdeco-inria/gaussian-splatting"
+    }
+  ],
+  "gsplat_v153_integration_notes": [
+    "Use exact legacy rmbrualla/pycolmap Git dependency; official modern pycolmap has a different API.",
+    "RGBA inputs must be explicitly composited to RGB; loader slices off alpha. Use black background for default trainer.",
+    "Set data_factor=1 for the existing 256x256 images.",
+    "Keep held-out views fixed. Default test_every=8 yields four held-out views for thirty sorted images.",
+    "Input parser expects COLMAP cameras/images/points3D; existing poses.npy requires convention and format conversion.",
+    "--ckpt performs evaluation/rendering only, not training resume.",
+    "Example trajectory video concatenates color and depth; task GIF requires RGB-only output and suitable object orbit.",
+    "Pin Python packages after successful runtime validation; upstream requirements are not a complete lockfile."
+  ],
+  "evidence_urls": [
+    "https://github.com/nerfstudio-project/gsplat/releases/tag/v1.5.3",
+    "https://github.com/nerfstudio-project/gsplat/blob/v1.5.3/examples/simple_trainer.py",
+    "https://github.com/nerfstudio-project/gsplat/blob/v1.5.3/examples/requirements.txt",
+    "https://github.com/nerfstudio-project/gsplat/blob/v1.5.3/examples/benchmarks/basic.sh",
+    "https://github.com/nerfstudio-project/gsplat/blob/512d366b67073d77ca099ede742683c165dfc23b/examples/requirements.txt",
+    "https://github.com/nv-tlabs/3dgrut/releases/tag/v1.1.0",
+    "https://github.com/ArthurBrussee/brush",
+    "https://github.com/MrNeRF/LichtFeld-Studio",
+    "https://github.com/nerfstudio-project/nerfstudio/releases/tag/v1.1.5",
+    "https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md"
+  ],
+  "acp_preflight": {
+    "job_name": "[JOB_ID_REDACTED]",
+    "state": "SUCCEEDED",
+    "gpu": "NVIDIA H100 80GB HBM3",
+    "python": "3.10.12",
+    "torch": "2.3.0a0+6ddf5cf85e.nv24.04",
+    "cuda": "12.4",
+    "driver": "580.95.05"
+  },
+  "smoke_job": {
+    "name": "[JOB_ID_REDACTED]",
+    "steps": 2000,
+    "uid": "fdecd4570f78412a821d9c41d98b2cfa",
+    "pose_source": "known Blender rendering poses",
+    "initialization": "SIFT correspondences triangulated from training views only",
+    "train_images": 26,
+    "held_out_images": 4,
+    "initial_points": 329,
+    "results": "experiments/gsplat_v153_smoke_e",
+    "state": "SUCCEEDED",
+    "metrics": {
+      "steps": 2000,
+      "psnr": 29.938812255859375,
+      "ssim": 0.9762001037597656,
+      "lpips": 0.034086015075445175,
+      "ellipse_time": 0.0013481974601745605,
+      "num_GS": 20862
+    },
+    "summary": "experiments/gsplat_v153_smoke_e/validation_summary.json"
+  },
+  "smoke_attempts": [
+    {
+      "name": "[JOB_ID_REDACTED]",
+      "outcome": "stopped_before_training",
+      "reason": "Repeated pip DNS retries with both PyPI and NGC indexes configured; retried with PyPI only."
+    },
+    {
+      "name": "[JOB_ID_REDACTED]",
+      "outcome": "stopped_before_training",
+      "results": "experiments/gsplat_v153_smoke_b",
+      "reason": "Remote package download throughput too low; staged 54 wheels and AlexNet weights on AOSS for offline installation."
+    },
+    {
+      "name": "[JOB_ID_REDACTED]",
+      "outcome": "failed_before_training",
+      "reason": "Worker used raw torch.__version__ with ===; PEP 440 normalizes NVIDIA nv24.04 to nv24.4, so strict string comparison excluded the installed package. Fixed to == distribution metadata version, with --pre."
+    },
+    {
+      "name": "[JOB_ID_REDACTED]",
+      "outcome": "failed_before_training",
+      "results": "experiments/gsplat_v153_smoke_d",
+      "reason": "Worker used raw torch.__version__ with ===; PEP 440 normalizes NVIDIA nv24.04 to nv24.4, so strict string comparison excluded the installed package. Fixed to == distribution metadata version, with --pre."
+    },
+    {
+      "name": "[JOB_ID_REDACTED]",
+      "outcome": "succeeded",
+      "results": "experiments/gsplat_v153_smoke_e",
+      "state": "SUCCEEDED"
+    }
+  ],
+  "validation_finished_at_utc": "2026-11-04T07:15:52.716428+00:00"
+}

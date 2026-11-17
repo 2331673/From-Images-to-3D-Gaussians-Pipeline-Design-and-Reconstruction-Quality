@@ -1,0 +1,101 @@
+{
+  "format": "zip archives extract relative to repository root",
+  "archives": [
+    {
+      "path": "archives/input_data.zip",
+      "bytes": 18043466,
+      "sha256": "35a53310577b12694da53a64ec3b330b230cee987779d8b8af3ae32b28d6dc6f",
+      "files": 1080
+    },
+    {
+      "path": "archives/upstream_sources.zip",
+      "bytes": 38001989,
+      "sha256": "9862e0ca58d50256c14dbbb2fa2ffb9c24d961c3b8d96ff6869b34f63a4081f7",
+      "files": 1872
+    },
+    {
+      "path": "archives/original_work.zip",
+      "bytes": 7588057,
+      "sha256": "c605dad881a61bd84bdd6044f7d12dfbd3ff0f96e21962458720d595160c3ac5",
+      "files": 829
+    },
+    {
+      "path": "archives/models_01_3f7cd14a0b7e4b739b0b21acc71252f2.zip",
+      "bytes": 18854127,
+      "sha256": "39b48b624ef85a8039a98646f053cdf96f513f9b601551b2c1c2e845c5d157bf",
+      "files": 33
+    },
+    {
+      "path": "archives/models_02_62ec6c8203b24d6ca3457f4349ec7759.zip",
+      "bytes": 18426773,
+      "sha256": "106bdb2e29d570e6e75e29f6cfdd98555a0693cfadd9fca44ec67b607813e935",
+      "files": 33
+    },
+    {
+      "path": "archives/models_03_ea44d20e395a4af18d577551f8ad66ac.zip",
+      "bytes": 6369251,
+      "sha256": "c9c218c66a6e7734324f94bebb7252565f48f5a4017782b88816433da125d36c",
+      "files": 33
+    },
+    {
+      "path": "archives/models_04_3966f9b9a8be46b283254a737445b0d0.zip",
+      "bytes": 9425330,
+      "sha256": "7dff4ab2bda68783269f57374c2da3ba83a4875c3a4566ee8db3d5de6a47cdad",
+      "files": 33
+    },
+    {
+      "path": "archives/models_05_1a5b93387fb24eb49db34b560794055c.zip",
+      "bytes": 7190093,
+      "sha256": "5de177dceb0f8a3364d6cba862297235412dbc5addcb2647b44703726aca2e21",
+      "files": 33
+    },
+    {
+      "path": "archives/models_06_0e1a6f302e7c4d9c861edbc78fd4fa4e.zip",
+      "bytes": 11646471,
+      "sha256": "8eb6df71aafa79b4972cce1a77d7826e566fc6cc2a10a78111aae89180f24dc8",
+      "files": 33
+    },
+    {
+      "path": "archives/models_07_a89b352697834521b375e2b310694b2c.zip",
+      "bytes": 5756646,
+      "sha256": "d2297c9de97fe474cf13f2af5fe6d6001c491cbe8a44f290ef72d4c29ef6c953",
+      "files": 33
+    },
+    {
+      "path": "archives/models_08_15b7973e35e3434284909722e3cecc60.zip",
+      "bytes": 21426281,
+      "sha256": "275dded698bd3c73d58b736ac800fc0a4346de3f0fa276d0ade9fcc19ad76a10",
+      "files": 33
+    },
+    {
+      "path": "archives/models_09_fdecd4570f78412a821d9c41d98b2cfa.zip",
+      "bytes": 23229803,
+      "sha256": "0dd55cecdb0326c3a7c5a64a273d190fc7832fc9acadc3817ee4f6a4e25d60c4",
+      "files": 33
+    },
+    {
+      "path": "archives/models_10_20820fb8cc6c465d918a7c84e19142bb.zip",
+      "bytes": 10435078,
+      "sha256": "8f994fe75ab1aaea01ed87059a77469062eaab0b5c5bd2d4b30905297223c6ef",
+      "files": 33
+    },
+    {
+      "path": "archives/models_ablation_random_01.zip",
+      "bytes": 17204634,
+      "sha256": "34d32dc7441648aa302b92656cf64800d21e5bd85926826d1091d98c5499a0e0",
+      "files": 33
+    },
+    {
+      "path": "archives/models_ablation_random_09.zip",
+      "bytes": 23012799,
+      "sha256": "7b0c7d5d10bdb35fddcb26a84eca30fde0ce058aebd97401e4971238bb7e8d6a",
+      "files": 33
+    },
+    {
+      "path": "archives/experiment_history.zip",
+      "bytes": 5143321,
+      "sha256": "328f8a39a7ea526a62b4be3d5ac65fc43efba7a9c3f032d455e9292f153ebf45",
+      "files": 50
+    }
+  ]
+}

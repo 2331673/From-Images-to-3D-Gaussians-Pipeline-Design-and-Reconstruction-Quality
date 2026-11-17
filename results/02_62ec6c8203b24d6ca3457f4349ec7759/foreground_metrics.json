@@ -1,0 +1,31 @@
+{
+  "definition": "Mean per-image RGB PSNR from 8-bit saved eval pairs, evaluated where source alpha >= 128; masks used only for evaluation.",
+  "views": [
+    {
+      "image": "000.png",
+      "foreground_fraction": 0.081695556640625,
+      "fg_psnr_8bit": 29.144608203108547,
+      "full_psnr_8bit": 38.19852021932236
+    },
+    {
+      "image": "008.png",
+      "foreground_fraction": 0.0958251953125,
+      "fg_psnr_8bit": 28.760946347726424,
+      "full_psnr_8bit": 37.76799195370168
+    },
+    {
+      "image": "016.png",
+      "foreground_fraction": 0.0865020751953125,
+      "fg_psnr_8bit": 29.35466522493915,
+      "full_psnr_8bit": 39.11400581518428
+    },
+    {
+      "image": "024.png",
+      "foreground_fraction": 0.10003662109375,
+      "fg_psnr_8bit": 28.045066008437438,
+      "full_psnr_8bit": 36.90120084333823
+    }
+  ],
+  "fg_psnr_8bit": 28.826321446052887,
+  "full_psnr_8bit": 37.99542970788664
+}

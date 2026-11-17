@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/nerfstudio-project/gsplat",
+  "tag": "v1.5.3",
+  "commit": "937e29912570c372bed6747a5c9bf85fed877bae",
+  "commit_date": "2025-07-04T16:24:04Z",
+  "source_url": "https://codeload.github.com/nerfstudio-project/gsplat/tar.gz/937e29912570c372bed6747a5c9bf85fed877bae",
+  "archive_sha256": "8fb7dd5f85ec70a74f3842b831dfc30f742d1148e6ce64074e8933e6782cd0e2",
+  "directory": "third_party/gsplat",
+  "method": "GitHub source archive, git clone failed due to TLS disconnect",
+  "runtime_tested": true,
+  "runtime_test_scope": "One known-pose object: install, 2000-step training, four held-out evaluations and RGB orbit rendering on ACP H100",
+  "validation_summary": "experiments/gsplat_v153_smoke_e/validation_summary.json"
+}

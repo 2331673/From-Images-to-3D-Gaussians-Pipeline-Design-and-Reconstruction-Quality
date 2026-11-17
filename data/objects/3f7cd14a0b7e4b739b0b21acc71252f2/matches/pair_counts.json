@@ -1,0 +1,1952 @@
+[
+  {
+    "image_a": "001.png",
+    "image_b": "002.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "003.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "004.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "005.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "006.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "007.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "009.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 6
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 11,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 18,
+    "geometry_verified_matches": 13
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 18,
+    "geometry_verified_matches": 16
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 11,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "001.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "003.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "004.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "005.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "006.png",
+    "mutual_ratio_matches": 0,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "007.png",
+    "mutual_ratio_matches": 0,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "009.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 0,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 8
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "002.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "004.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "005.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "006.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "007.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "009.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 10,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 10
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 7
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "003.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "005.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "006.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "007.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "009.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 0,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "004.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "006.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "007.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "009.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 8
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "005.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "007.png",
+    "mutual_ratio_matches": 22,
+    "geometry_verified_matches": 22
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "009.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 16,
+    "geometry_verified_matches": 13
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 22,
+    "geometry_verified_matches": 20
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 18,
+    "geometry_verified_matches": 13
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "006.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "009.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 8
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 20,
+    "geometry_verified_matches": 18
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 15,
+    "geometry_verified_matches": 13
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "007.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "010.png",
+    "mutual_ratio_matches": 15,
+    "geometry_verified_matches": 14
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 6
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 12
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 7
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "009.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 0,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "011.png",
+    "mutual_ratio_matches": 13,
+    "geometry_verified_matches": 10
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 11
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "010.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "012.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "011.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "013.png",
+    "mutual_ratio_matches": 10,
+    "geometry_verified_matches": 9
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 11,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "012.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "014.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 6
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 7
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "013.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "015.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "014.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "017.png",
+    "mutual_ratio_matches": 11,
+    "geometry_verified_matches": 5
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 10,
+    "geometry_verified_matches": 9
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 13,
+    "geometry_verified_matches": 11
+  },
+  {
+    "image_a": "015.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "018.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "017.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "019.png",
+    "mutual_ratio_matches": 20,
+    "geometry_verified_matches": 15
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 0,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "018.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 7
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "020.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 6
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "019.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "021.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 6
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 6,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 0,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "020.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 8,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "021.png",
+    "image_b": "022.png",
+    "mutual_ratio_matches": 11,
+    "geometry_verified_matches": 10
+  },
+  {
+    "image_a": "021.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 3
+  },
+  {
+    "image_a": "021.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "021.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "021.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "021.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "021.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "022.png",
+    "image_b": "023.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 6
+  },
+  {
+    "image_a": "022.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "022.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "022.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "022.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "022.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "023.png",
+    "image_b": "025.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "023.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "023.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "023.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 1,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "023.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 9,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "025.png",
+    "image_b": "026.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "025.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "025.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 4,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "025.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 2,
+    "geometry_verified_matches": 0
+  },
+  {
+    "image_a": "026.png",
+    "image_b": "027.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "026.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 3,
+    "geometry_verified_matches": 1
+  },
+  {
+    "image_a": "026.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 4
+  },
+  {
+    "image_a": "027.png",
+    "image_b": "028.png",
+    "mutual_ratio_matches": 12,
+    "geometry_verified_matches": 9
+  },
+  {
+    "image_a": "027.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 5,
+    "geometry_verified_matches": 2
+  },
+  {
+    "image_a": "028.png",
+    "image_b": "029.png",
+    "mutual_ratio_matches": 7,
+    "geometry_verified_matches": 5
+  }
+]

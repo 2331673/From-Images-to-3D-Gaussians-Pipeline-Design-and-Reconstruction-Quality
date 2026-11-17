@@ -1,0 +1,9 @@
+{
+  "python": "3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]",
+  "torch": "2.3.0a0+6ddf5cf85e.nv24.04",
+  "numpy": "1.26.4",
+  "gsplat": "1.5.3",
+  "torch_cuda": "12.4",
+  "legacy_colmap_scene_manager": true,
+  "gpu": "NVIDIA H100 80GB HBM3"
+}

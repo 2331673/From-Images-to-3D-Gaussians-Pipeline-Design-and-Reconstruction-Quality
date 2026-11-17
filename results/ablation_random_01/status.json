@@ -1,0 +1,21 @@
+{
+  "run_id": "ablation_random_01",
+  "number": 1,
+  "uid": "3f7cd14a0b7e4b739b0b21acc71252f2",
+  "kind": "initialization_ablation",
+  "init_type": "random",
+  "sift_points": 166,
+  "init_num_pts": 166,
+  "status": "complete",
+  "started_at": "2026-11-04T07:32:07.726991+00:00",
+  "metrics": {
+    "psnr": 37.43727493286133,
+    "ssim": 0.9816943407058716,
+    "lpips": 0.015152567066252232,
+    "ellipse_time": 0.001544177532196045,
+    "num_GS": 34565
+  },
+  "fg_psnr_8bit": 32.825002706500214,
+  "elapsed_seconds": 42.20399431884289,
+  "finished_at": "2026-11-04T07:32:49.930989+00:00"
+}

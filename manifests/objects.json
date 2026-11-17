@@ -1,0 +1,106 @@
+{
+  "objects": [
+    {
+      "uid": "3f7cd14a0b7e4b739b0b21acc71252f2",
+      "split": "000-002",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/3f7cd14a0b7e4b739b0b21acc71252f2",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "62ec6c8203b24d6ca3457f4349ec7759",
+      "split": "000-005",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/62ec6c8203b24d6ca3457f4349ec7759",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "ea44d20e395a4af18d577551f8ad66ac",
+      "split": "000-004",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/ea44d20e395a4af18d577551f8ad66ac",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "3966f9b9a8be46b283254a737445b0d0",
+      "split": "000-008",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/3966f9b9a8be46b283254a737445b0d0",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "1a5b93387fb24eb49db34b560794055c",
+      "split": "000-000",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/1a5b93387fb24eb49db34b560794055c",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "0e1a6f302e7c4d9c861edbc78fd4fa4e",
+      "split": "000-003",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/0e1a6f302e7c4d9c861edbc78fd4fa4e",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "a89b352697834521b375e2b310694b2c",
+      "split": "000-008",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/a89b352697834521b375e2b310694b2c",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "15b7973e35e3434284909722e3cecc60",
+      "split": "000-004",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/15b7973e35e3434284909722e3cecc60",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "fdecd4570f78412a821d9c41d98b2cfa",
+      "split": "000-004",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/fdecd4570f78412a821d9c41d98b2cfa",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    },
+    {
+      "uid": "20820fb8cc6c465d918a7c84e19142bb",
+      "split": "000-009",
+      "image_count": 30,
+      "width": 256,
+      "height": 256,
+      "focal_normalized": 1.25,
+      "data_dir": "data/objects/20820fb8cc6c465d918a7c84e19142bb",
+      "camera_convention": "COLMAP/OpenCV w2c; known Blender render poses converted by preparation script"
+    }
+  ],
+  "final_retained_count": 11974,
+  "original_manifest_sha256": "5ea8b845976da355fe55de893aecf59ebd34bd569cf8df17669f440b5c3b54ca"
+}

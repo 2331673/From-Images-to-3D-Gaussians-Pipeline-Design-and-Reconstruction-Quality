@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+.private/
+.env
+.env.*
+!.env.example
+*.local.env
+*.local.toml
+credentials.toml
+acp-credentials.toml
+hosts.yml
+*.pem
+*.key

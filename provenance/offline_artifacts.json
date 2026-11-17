@@ -1,0 +1,279 @@
+{
+  "wheels": [
+    {
+      "filename": "PyYAML-6.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 751239,
+      "sha256": "ec031d5d2feb36d1d1a24380e4db6d43695f3748343d99434e6f5f9156aaa2ed"
+    },
+    {
+      "filename": "Rtree-1.3.0-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "bytes": 543195,
+      "sha256": "ec2ed6d1635753dab966e68f592a9c4896f3f4ec6ad2b09b776d592eacd883a9"
+    },
+    {
+      "filename": "anyio-4.6.2.post1-py3-none-any.whl",
+      "bytes": 90377,
+      "sha256": "6d170c36fba3bdd840c73d3868c1e777e33676a69c3a72cf0a0d5d6d8009b61d"
+    },
+    {
+      "filename": "chardet-5.2.0-py3-none-any.whl",
+      "bytes": 199385,
+      "sha256": "e1cf59446890a00105fe7b7912492ea04b6e6f06d4b742b2c788469e34c82970"
+    },
+    {
+      "filename": "colorlog-6.9.0-py3-none-any.whl",
+      "bytes": 11424,
+      "sha256": "5906e71acd67cb07a71e779c47c4bcb45fb8c2993eebe9e5adcd6a6f1b283eff"
+    },
+    {
+      "filename": "distlib-0.3.9-py2.py3-none-any.whl",
+      "bytes": 468973,
+      "sha256": "47f8c22fd27c27e25a65601af709b38e4f0a45ea4fc2e710f65755fa8caaaf87"
+    },
+    {
+      "filename": "docstring_parser-0.16-py3-none-any.whl",
+      "bytes": 36533,
+      "sha256": "bf0a1387354d3691d102edef7ec124f219ef639982d096e26e3b60aeffa90637"
+    },
+    {
+      "filename": "embreex-4.4.0.post1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "bytes": 14514870,
+      "sha256": "83d36eea60b097c367713102747cc1779152c289affe8cd0c2e9910805de05ca"
+    },
+    {
+      "filename": "filelock-3.16.1-py3-none-any.whl",
+      "bytes": 16163,
+      "sha256": "2082e5703d51fbf98ea75855d9d5527e33d8ff23099bec374a134febee6946b0"
+    },
+    {
+      "filename": "h11-0.14.0-py3-none-any.whl",
+      "bytes": 58259,
+      "sha256": "e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761"
+    },
+    {
+      "filename": "httpcore-1.0.7-py3-none-any.whl",
+      "bytes": 78551,
+      "sha256": "a3fff8f43dc260d5bd363d9f9cf1830fa3a458b332856f34282de498ed420edd"
+    },
+    {
+      "filename": "httpx-0.27.2-py3-none-any.whl",
+      "bytes": 76395,
+      "sha256": "7bb2708e112d8fdd7829cd4243970f0c223274051cb35ee80c03301ee29a3df0"
+    },
+    {
+      "filename": "imageio-2.36.1-py3-none-any.whl",
+      "bytes": 315435,
+      "sha256": "20abd2cae58e55ca1af8a8dcf43293336a59adf0391f1917bf8518633cfc2cdf"
+    },
+    {
+      "filename": "imageio_ffmpeg-0.5.1-py3-none-manylinux2010_x86_64.whl",
+      "bytes": 26900394,
+      "sha256": "5289f75c7f755b499653f3209fea4efd1430cba0e39831c381aad2d458f7a316"
+    },
+    {
+      "filename": "jaxtyping-0.2.36-py3-none-any.whl",
+      "bytes": 55823,
+      "sha256": "b19bcbd4009df8734602203402483a4066ad2eb3382904432e370588e9c9707d"
+    },
+    {
+      "filename": "lxml-5.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 5012462,
+      "sha256": "41ce1f1e2c7755abfc7e759dc34d7d05fd221723ff822947132dc934d122fe22"
+    },
+    {
+      "filename": "manifold3d-2.5.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "bytes": 1193967,
+      "sha256": "f26baa9746aeadb124c648182c1d2fe923cc8b42f5bd460d91e20094fe272488"
+    },
+    {
+      "filename": "mapbox_earcut-1.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 110982,
+      "sha256": "8f87262025203f258230823a1614d6d9ab10f327b4aacc15029e76c127cf471c"
+    },
+    {
+      "filename": "matplotlib-3.9.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 8303983,
+      "sha256": "ab68d50c06938ef28681073327795c5db99bb4666214d2d5f880ed11aeaded66"
+    },
+    {
+      "filename": "msgspec-0.18.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 210276,
+      "sha256": "40a4df891676d9c28a67c2cc39947c33de516335680d1316a89e8f7218660410"
+    },
+    {
+      "filename": "networkx-3.3-py3-none-any.whl",
+      "bytes": 1702396,
+      "sha256": "28575580c6ebdaf4505b22c6256a2b9de86b316dc63ba9e93abde3d78dfdbcf2"
+    },
+    {
+      "filename": "ninja-1.11.1.1-py2.py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl",
+      "bytes": 307194,
+      "sha256": "84502ec98f02a037a169c4b0d5d86075eaf6afc55e1879003d6cab51ced2ea4b"
+    },
+    {
+      "filename": "nodeenv-1.9.1-py2.py3-none-any.whl",
+      "bytes": 22314,
+      "sha256": "ba11c9782d29c27c70ffbdda2d7415098754709be8a7056d79a737cd901155c9"
+    },
+    {
+      "filename": "numpy-1.26.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 18240889,
+      "sha256": "ffa75af20b44f8dba823498024771d5ac50620e6915abac414251bd971b4529f"
+    },
+    {
+      "filename": "opencv_python_headless-4.10.0.84-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 49858781,
+      "sha256": "377d08a7e48a1405b5e84afcbe4798464ce7ee17081c1c23619c8b398ff18295"
+    },
+    {
+      "filename": "pillow-11.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 4283912,
+      "sha256": "88a58d8ac0cc0e7f3a014509f0455248a76629ca9b604eca7dc5927cc593c5e9"
+    },
+    {
+      "filename": "platformdirs-4.3.6-py3-none-any.whl",
+      "bytes": 18439,
+      "sha256": "73e575e1408ab8103900836b97580d5307456908a03e92031bab39e4554cc3fb"
+    },
+    {
+      "filename": "plyfile-1.1-py3-none-any.whl",
+      "bytes": 23593,
+      "sha256": "897acde0bbe94af4f6c3866b2c0af2e889ae3533fd5c4f3d3318a0c421fcbe35"
+    },
+    {
+      "filename": "psutil-6.1.0-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 287255,
+      "sha256": "498c6979f9c6637ebc3a73b3f87f9eb1ec24e1ce53a7c5173b8508981614a90b"
+    },
+    {
+      "filename": "pycollada-0.9.2-py3-none-any.whl",
+      "bytes": 128399,
+      "sha256": "12fbeef6461688b6b3775c50196a2bb5f8813c0d39923a5a49681a75eb4622c9"
+    },
+    {
+      "filename": "rich-13.9.4-py3-none-any.whl",
+      "bytes": 242424,
+      "sha256": "6049d5e6ec054bf2779ab3358186963bac2ea89175919d699e378b99738c2a90"
+    },
+    {
+      "filename": "scikit_image-0.24.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 14866533,
+      "sha256": "39ee0af13435c57351a3397eb379e72164ff85161923eec0c38849fecf1b4764"
+    },
+    {
+      "filename": "scikit_learn-1.5.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 13347241,
+      "sha256": "3a686885a4b3818d9e62904d91b57fa757fc2bed3e465c8b177be652f4dd37c8"
+    },
+    {
+      "filename": "shapely-2.0.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 2468133,
+      "sha256": "b3304883bd82d44be1b27a9d17f1167fda8c7f5a02a897958d86c59ec69b705e"
+    },
+    {
+      "filename": "shtab-1.7.1-py3-none-any.whl",
+      "bytes": 14095,
+      "sha256": "32d3d2ff9022d4c77a62492b6ec875527883891e33c6b479ba4d41a51e259983"
+    },
+    {
+      "filename": "sniffio-1.3.1-py3-none-any.whl",
+      "bytes": 10235,
+      "sha256": "2f6da418d1f1e0fddd844478f41680e794e6051915791a034ff65e5f100525a2"
+    },
+    {
+      "filename": "splines-0.3.2-py3-none-any.whl",
+      "bytes": 17595,
+      "sha256": "e3db5dd771213d6cbb37a81859b372350d1263caa147806b08d709d5a99d0d67"
+    },
+    {
+      "filename": "svg.path-6.3-py2.py3-none-any.whl",
+      "bytes": 16421,
+      "sha256": "4bd4747679b527f8db9868e1623bee9f416540b658285d903885768d8a427e5a"
+    },
+    {
+      "filename": "tensorboard-2.18.0-py3-none-any.whl",
+      "bytes": 5503036,
+      "sha256": "107ca4821745f73e2aefa02c50ff70a9b694f39f790b11e6f682f7d326745eab"
+    },
+    {
+      "filename": "tensorboard_data_server-0.7.2-py3-none-any.whl",
+      "bytes": 2356,
+      "sha256": "7e0610d205889588983836ec05dc098e80f97b7e7bbff7e994ebb78f578d0ddb"
+    },
+    {
+      "filename": "tensorly-0.9.0-py3-none-any.whl",
+      "bytes": 7414316,
+      "sha256": "a393022ff1616a36c021496f46a955d94234d6bc8c42793f477a6be8849f4873"
+    },
+    {
+      "filename": "tifffile-2024.9.20-py3-none-any.whl",
+      "bytes": 228191,
+      "sha256": "c54dc85bc1065d972cb8a6ffb3181389d597876aa80177933459733e4ed243dd"
+    },
+    {
+      "filename": "torchmetrics-1.4.3-py3-none-any.whl",
+      "bytes": 869546,
+      "sha256": "76e67490231acef7f70cf36ab129df72fb2b0256dada7051001ab3b9f8699bf4"
+    },
+    {
+      "filename": "tqdm-4.67.1-py3-none-any.whl",
+      "bytes": 78540,
+      "sha256": "26445eca388f82e72884e0d580d5464cd801a3ea01e63e5601bdff9ba6a48de2"
+    },
+    {
+      "filename": "trimesh-4.5.2-py3-none-any.whl",
+      "bytes": 704412,
+      "sha256": "2e50f3a7fd135c3045da887a1b9f91230528f3ce11d2ec1ba44750d82d6b4f73"
+    },
+    {
+      "filename": "typing_extensions-4.12.2-py3-none-any.whl",
+      "bytes": 37438,
+      "sha256": "04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d"
+    },
+    {
+      "filename": "tyro-0.8.14-py3-none-any.whl",
+      "bytes": 109833,
+      "sha256": "1904bffb0e4d5e16c5eb50c518c89a368a44d56405f79b316c58e1206c102e87"
+    },
+    {
+      "filename": "vhacdx-0.1.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "bytes": 258939,
+      "sha256": "64d3a377122984f649548daeff779abfee6f06cad22babaeac32f949a66ff69b"
+    },
+    {
+      "filename": "virtualenv-20.26.6-py3-none-any.whl",
+      "bytes": 5999862,
+      "sha256": "7345cc5b25405607a624d8418154577459c3e0277f5466dd79c49d5e492995f2"
+    },
+    {
+      "filename": "viser-0.2.23-py3-none-any.whl",
+      "bytes": 28887713,
+      "sha256": "36e3e60ef61024fec4404857897c1b301695b29350a17451c2ca769e6b26de00"
+    },
+    {
+      "filename": "websockets-13.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 164125,
+      "sha256": "1971e62d2caa443e57588e1d82d15f663b29ff9dfe7446d9964a4b6f12c1e700"
+    },
+    {
+      "filename": "xatlas-0.0.9-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 230108,
+      "sha256": "7112a4c90c14a459dfffbffac1319ad3770a50bfb592f03562c8fe564e765ad7"
+    },
+    {
+      "filename": "xxhash-3.5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "bytes": 194149,
+      "sha256": "c0342aafd421795d740e514bc9858ebddfc705a75a8c5046ac56d85fe97bf196"
+    },
+    {
+      "filename": "yourdfpy-0.0.56-py3-none-any.whl",
+      "bytes": 22051,
+      "sha256": "85063021aafa97e3818c9e708bc67a804678bbd7f8bbd3c4425f243ff58f9499"
+    }
+  ],
+  "lpips_alexnet": {
+    "file": "cache/torch/hub/checkpoints/alexnet-owt-7be5be79.pth",
+    "sha256": "7be5be791159472b1fbf3c69796f7cb30dca7ad8466c2df70058c37116cdee02",
+    "bytes": 244408911
+  }
+}

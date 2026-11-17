@@ -1,0 +1,120 @@
+{
+  "steps": 6000,
+  "seed": 42,
+  "test_every": 8,
+  "train_views": 26,
+  "test_views": 4,
+  "random_init_extent_scene_scale_multiplier": 0.3,
+  "fallback_rule": "Use 10000 random Gaussians when fewer than 20 SIFT points survive; otherwise SIFT initialization.",
+  "ablation_rule": "Objects 01 and 09: replace SIFT positions/colors with seeded random positions/colors, keeping initial point count and all other settings.",
+  "jobs": [
+    {
+      "run_id": "01_3f7cd14a0b7e4b739b0b21acc71252f2",
+      "number": 1,
+      "uid": "3f7cd14a0b7e4b739b0b21acc71252f2",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 166,
+      "init_num_pts": 166
+    },
+    {
+      "run_id": "ablation_random_01",
+      "number": 1,
+      "uid": "3f7cd14a0b7e4b739b0b21acc71252f2",
+      "kind": "initialization_ablation",
+      "init_type": "random",
+      "sift_points": 166,
+      "init_num_pts": 166
+    },
+    {
+      "run_id": "02_62ec6c8203b24d6ca3457f4349ec7759",
+      "number": 2,
+      "uid": "62ec6c8203b24d6ca3457f4349ec7759",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 46,
+      "init_num_pts": 46
+    },
+    {
+      "run_id": "03_ea44d20e395a4af18d577551f8ad66ac",
+      "number": 3,
+      "uid": "ea44d20e395a4af18d577551f8ad66ac",
+      "kind": "primary",
+      "init_type": "random",
+      "sift_points": 6,
+      "init_num_pts": 10000
+    },
+    {
+      "run_id": "04_3966f9b9a8be46b283254a737445b0d0",
+      "number": 4,
+      "uid": "3966f9b9a8be46b283254a737445b0d0",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 188,
+      "init_num_pts": 188
+    },
+    {
+      "run_id": "05_1a5b93387fb24eb49db34b560794055c",
+      "number": 5,
+      "uid": "1a5b93387fb24eb49db34b560794055c",
+      "kind": "primary",
+      "init_type": "random",
+      "sift_points": 18,
+      "init_num_pts": 10000
+    },
+    {
+      "run_id": "06_0e1a6f302e7c4d9c861edbc78fd4fa4e",
+      "number": 6,
+      "uid": "0e1a6f302e7c4d9c861edbc78fd4fa4e",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 23,
+      "init_num_pts": 23
+    },
+    {
+      "run_id": "07_a89b352697834521b375e2b310694b2c",
+      "number": 7,
+      "uid": "a89b352697834521b375e2b310694b2c",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 103,
+      "init_num_pts": 103
+    },
+    {
+      "run_id": "08_15b7973e35e3434284909722e3cecc60",
+      "number": 8,
+      "uid": "15b7973e35e3434284909722e3cecc60",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 49,
+      "init_num_pts": 49
+    },
+    {
+      "run_id": "09_fdecd4570f78412a821d9c41d98b2cfa",
+      "number": 9,
+      "uid": "fdecd4570f78412a821d9c41d98b2cfa",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 329,
+      "init_num_pts": 329
+    },
+    {
+      "run_id": "ablation_random_09",
+      "number": 9,
+      "uid": "fdecd4570f78412a821d9c41d98b2cfa",
+      "kind": "initialization_ablation",
+      "init_type": "random",
+      "sift_points": 329,
+      "init_num_pts": 329
+    },
+    {
+      "run_id": "10_20820fb8cc6c465d918a7c84e19142bb",
+      "number": 10,
+      "uid": "20820fb8cc6c465d918a7c84e19142bb",
+      "kind": "primary",
+      "init_type": "sfm",
+      "sift_points": 71,
+      "init_num_pts": 71
+    }
+  ]
+}
